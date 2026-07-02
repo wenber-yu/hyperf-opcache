@@ -8,13 +8,13 @@
         "opcache",
         "swoole",
         "hyperf-opcache",
-        "wilbur.yu",
-        "wilbur"
+        "wenbo.yu",
+        "wenbo"
     ],
     "authors": [
         {
-            "name": "wilbur.yu",
-            "email": "wilbur.yu@creative-life.club",
+            "name": "wenbo.yu",
+            "email": "wenbo@wenber.club",
             "homepage": "https://creative-life.club",
             "role": "Developer"
         }
