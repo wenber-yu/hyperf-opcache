@@ -11,11 +11,11 @@ This package requires hyperf 2.1 or newer.
 # Installation
 You can install the package via Composer:
 ```bash
-composer require wilbur-yu/hyperf-opcache
+composer require wenber-yu/hyperf-opcache
 ```
 If you need to change config values, you can publish the config file with:
 ```bash
-php bin/hyperf.php vendor:publish wilbur-yu/hyperf-opcache
+php bin/hyperf.php vendor:publish wenber-yu/hyperf-opcache
 ```
 
 # usage
@@ -41,4 +41,4 @@ php bin/hyperf.php opcache:compile {--force}
 Thanks to the [laravel-opcache](https://github.com/appstract) and their contributors
 
 # License
-The MIT License (MIT). Please see [License File](https://github.com/wilbur-yu/hyperf-opcache/blob/main/LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/wenber-yu/hyperf-opcache/blob/main/LICENSE.md) for more information.
